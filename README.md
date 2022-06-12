@@ -2,7 +2,7 @@
 
 This repository collects notes, handouts, and other materials from the PhysiCell curriculum at the UCI Systems Biology Short Course (June 13, 2022.) See more at https://ccbs.uci.edu/education/fasb-sc/
 
-## Preparation and setup
+## Preparation
 The majority of the PhysiCell session will be run using online web models, with optional work on C++ for the more advanced part of the session. 
 
 ### NanoHub registration
